@@ -1,3 +1,1 @@
-game
-.livewire
-.by
+game.livewire.by
